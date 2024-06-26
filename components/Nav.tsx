@@ -1,4 +1,5 @@
 'use client'
+
 import Image from 'next/image'
 import { ModeToggle } from './ui/toggle-mode'
 

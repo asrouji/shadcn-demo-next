@@ -1,5 +1,6 @@
 import Nav from '@/components/Nav'
 import { Button } from '@/components/ui/button'
+import ProfileForm from '@/components/ProfileForm'
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
         <Button>Primary Button</Button>
         <Button variant={'secondary'}>Secondary Button</Button>
       </div>
+      <ProfileForm />
     </main>
   )
 }
