@@ -1,3 +1,5 @@
+'use client'
+
 import Nav from '@/components/Nav'
 import { Button } from '@/components/ui/button'
 import ProfileForm from '@/components/ProfileForm'
